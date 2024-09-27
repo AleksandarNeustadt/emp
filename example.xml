@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<library>
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <publisher>Secker &amp; Warburg</publisher>
+  </book>
+  <book>
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <year>1932</year>
+    <publisher>Chatto &amp; Windus</publisher>
+  </book>
+  <book>
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <year>1953</year>
+    <publisher>Ballantine Books</publisher>
+  </book>
+  <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <publisher>Little, Brown and Company</publisher>
+  </book>
+</library>

@@ -1,0 +1,17 @@
+{
+    "1984": {
+        "author": "George Orwell",
+        "year": "1950",
+        "publisher": "Secker & Warburg"
+    },
+    "Fahrenheit 451": {
+        "author": "Ray Bradbury",
+        "year": "1953",
+        "publisher": "Ballantine Books"
+    },
+    "The Catcher in the Rye": {
+        "author": "J.D. Salinger",
+        "year": "1951",
+        "publisher": "Little, Brown and Company"
+    }
+}
